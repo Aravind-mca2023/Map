@@ -1,6 +1,10 @@
 # Map
+In map animation we have a marker placed in MIT and travel to Harvard. The marker shows the stops between MIT and Harvard while it moves
 
+# Steps to Run the Project
+Touch the marker to make it travel from MIT to Harvard
 
-Your project appears to involve creating an interactive map using Mapbox GL JS. The button in the overlay suggests that clicking it will trigger some animation or action related to stops between RVS College and Gandhipuram on the map.
+# Future Improvements
+This Project can be further enhanced by using animated graphs to make it look more realistic
 
 https://aravind-mca2023.github.io/Map/
