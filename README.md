@@ -7,4 +7,3 @@ Touch the marker to make it travel from RVS college to Gadhipuram
 # Future Improvements
 This Project can be further enhanced by using animated graphs to make it look more realistic
 
-https://aravind-mca2023.github.io/Map/
